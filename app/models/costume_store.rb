@@ -1,4 +1,4 @@
-class CustomeStore < ActiveRecord::Base
+class CostumeStore < ActiveRecord::Base
   
 
   
